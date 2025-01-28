@@ -1,0 +1,40 @@
+{
+  "name": "project-2-command-line-game-ezraschutte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^7.2.0",
+    "ansi-escapes": "^4.3.2",
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^4.3.0",
+    "chardet": "^0.7.0",
+    "cli-width": "^4.1.0",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "emoji-regex": "^8.0.0",
+    "external-editor": "^3.1.0",
+    "figlet": "^1.8.0",
+    "iconv-lite": "^0.4.24",
+    "is-fullwidth-code-point": "^3.0.0",
+    "kleur": "^3.0.3",
+    "mute-stream": "^2.0.0",
+    "os-tmpdir": "^1.0.2",
+    "safer-buffer": "^2.1.2",
+    "signal-exit": "^4.1.0",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "tmp": "^0.0.33",
+    "tsc": "^2.0.4",
+    "type-fest": "^0.21.3",
+    "undici-types": "^6.20.0",
+    "wrap-ansi": "^6.2.0",
+    "yoctocolors-cjs": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
