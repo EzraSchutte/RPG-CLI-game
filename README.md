@@ -16,11 +16,11 @@ A game about beating the bruzz in a epic RPG CLI game made in Node.js
 
 1. Clone repository:
     ```bash
-    git clone https://github.com/tallandcollege/project-2-command-line-game-EzraSchutte.git
+    git clone https://github.com/EzraSchutte/RPG-CLI-game.git
     ```
 2. Navigate to project:
     ```bash
-    cd project-2-command-line-game-EzraSchutte
+    cd RPG-CLI-game
     ```
 3. Install dependencies:
     ```bash
