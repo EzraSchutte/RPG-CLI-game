@@ -7,7 +7,7 @@ const basicStory = {
         ENEMY.babyBoss,
         ENEMY.pickachu,
         ENEMY.evilNatas,
-        ENEMY.evilEyyab,
+        ENEMY.eyyabThePredator,
         ENEMY.mikaTheExiled,
     ],
 }

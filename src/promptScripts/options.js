@@ -7,8 +7,7 @@ import {promptInventory} from "../items/items.js";
 
 export async function openOptions() {
     ifDebugEqualsTruePrintPlayer("Start of open options:")
-    const chosenInput = await select(
-        {
+    const chosenInput = await select({
             type: "select",
             name: "value",
             message: "Choose an option.",
@@ -18,8 +17,7 @@ export async function openOptions() {
                 {name: "Check Inventory", value: "inventory"},
                 {name: "Quit Game", value: "quit"},
             ]
-        }
-    )
+        })
 
     if (chosenInput === "explore") {
         console.clear();
